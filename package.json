@@ -1,0 +1,12 @@
+{
+  "name": "instagram-scrapper",
+  "version": "2.0.0",
+  "description": "Scrape data from Instagram without applying for the authenticated API.",
+  "main": "instagram-scrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joao Gabriel <joao.gabriel@influu.me>",
+  "license": "ISC"
+}
